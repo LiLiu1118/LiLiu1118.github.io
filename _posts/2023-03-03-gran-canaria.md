@@ -1,7 +1,12 @@
 ---
 layout: post
-title: "Li, Liu, Launches Site"
+title: "加纳利：撒哈拉的沙吹向西班牙"
 date: 2023-03-03
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+# 群岛
+
+![canaria location](https://github.com/LiLiu1118/LiLiu1118.github.io/blob/main/images/location.png)
+
+# 山顶的杂货铺
+

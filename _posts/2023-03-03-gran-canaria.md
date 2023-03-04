@@ -11,5 +11,7 @@ date: 2023-03-03
 
 ![canaria location](https://github.com/LiLiu1118/LiLiu1118.github.io/blob/main/images/location.png)
 
+
+![ScreenShot](../images/location.png)
 # 山顶的杂货铺
 

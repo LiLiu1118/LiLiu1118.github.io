@@ -13,5 +13,8 @@ date: 2023-03-03
 
 
 ![ScreenShot](../images/location.png)
+
+![Expression]({{ "/images/location.png" | relative_url }})  
+
 # 山顶的杂货铺
 

@@ -76,7 +76,7 @@ Poema del Mar，西班牙语意为“海洋之诗”，是临近拉斯帕尔马�
 
 ![canaria's location]({{ "/images/inCollage_20230305_182945195.jpg" | relative_url }}){: width="100%" }    
 
-![canaria's location]({{ "/images/iIMG_20221003_115711.jpg" | relative_url }}){: width="100%" }    
+![canaria's location]({{ "/images/IMG_20221003_115711.jpg" | relative_url }}){: width="100%" }    
 
 
 返程的101路大巴每天只有四个班次。我争分夺秒，到达山脚的时候衬衫已经湿透，但感谢老天的眷顾，大巴晚点了。我喘着大气在镇上的小店买了饮品，这可能是这辈子最冰爽的一听可乐了吧。

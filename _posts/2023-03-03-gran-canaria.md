@@ -28,10 +28,18 @@ date: 2022-10-03
 
 ![canaria's location]({{ "/images/inCollage_20230304_233559042.jpg" | relative_url }}){: width="100%" }    
 
+
+![canaria's location]({{ "/images/20221002141527-01-01-01.jpeg" | relative_url }}){: width="100%" }    
+
+![canaria's location]({{ "/images/inCollage_20230304_233746944.jpg" | relative_url }}){: width="100%" }    
 拉斯帕尔马斯港不仅是加那利群岛最早的港口之一，也是中大西洋最早的港口之一，处理着欧洲、非洲和美洲交汇处的交通。五个世纪以来，拉斯帕尔马斯港一直是通过中大西洋的往来商船的重要基地。沿着蜿蜒的石阶一步步到达高点，彩色的传统建筑与大海的一抹蓝交响呼应，探出头的黑猫也能理解登高者此刻的心境吧。
 
 ![canaria's location]({{ "/images/inCollage_20230305_003635562.jpg" | relative_url }}){: width="100%" }    
 
+Poema del Mar，西班牙语意为“海洋之诗”，是临近拉斯帕尔马斯港的超现代水族馆。这个特殊的水族馆拥有世界上最大的弧形玻璃水槽，350 多种海洋动物以及2000多种热带植物生活在这里。
+
+![canaria's location]({{ "/images/mmexport1677869205596.jpg" | relative_url }}){: width="100%" }    
+![canaria's location]({{ "/images/mmexport1677869190594.jpg" | relative_url }}){: width="100%" }    
 
 ## 市场
 
@@ -40,6 +48,7 @@ date: 2022-10-03
 ![canaria's location]({{ "/images/csm_Gran-Canaria-Mercado-de-Vegueta_54a7f14589.jpg" | relative_url }}){: width="100%" }    
 这家水果商店几乎是游客的必来之地，除了种类齐全的各式水果以外，它还以老板的热情好客而闻名。光头老板常用他的长刀切好香蕉片供买家品尝。这样一盒切好的什锦拼盘大概7欧元，内有芒果、猕猴桃、杨桃、火龙果以及我第一次吃到的刺角瓜，酸酸的有种清香的味道。此外我也品尝了加纳利的特色菜Papas Arrugadas。用水加盐煮熟带皮的土豆，沥干水分散去热量的土豆表面会形成皱纹，因此得名“皱纹土豆”。搭配由辣椒、大蒜和香菜制作的辛辣酱料别有一番风味。西班牙风味小吃大蒜虾也很美味， 新鲜大虾去皮并在橄榄油中与大蒜和辣椒一起烹制，然后在装满热油的盘子中滋滋作响地被端上餐桌。
 
+![canaria's location]({{ "/images/inCollage_20230305_163217457.jpg" | relative_url }}){: width="100%" }    
 ![canaria's location]({{ "/images/inCollage_20230305_005601181.jpg" | relative_url }}){: width="100%" }    
 ![canaria's location]({{ "/images/mmexport1677869028522.jpg" | relative_url }}){: width="100%" }    
 
